@@ -7,7 +7,7 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Open4MのWiki
+      name: Open4M
       text: 一个随身WiFi刷机项目
       actions:
         -
