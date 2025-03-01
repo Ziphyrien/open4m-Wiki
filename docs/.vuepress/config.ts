@@ -5,8 +5,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: 'ZephyrCraft Wiki',
-  description: 'Minecraft ZephyrCraft Server&#x27;s Guide',
+  title: 'Open4M Wiki',
 
   head: [
     // 配置站点图标
